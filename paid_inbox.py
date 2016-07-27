@@ -1,6 +1,6 @@
 #!/usr/bin/python
-''' Automatically respond to dev-tools threads that have not
-yet received a response from our team. '''
+''' Automatically open emails from InboxPAys or InboxCash
+and open the links that credit money to my account. '''
 
 import httplib2
 import argparse
