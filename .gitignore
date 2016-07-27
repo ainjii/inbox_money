@@ -1,2 +1,4 @@
-*secrets*
+*secret*
 *.pyc
+/env/
+gmail.storage
